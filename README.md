@@ -79,6 +79,18 @@
 }
 ```
 
+### UpdateVoiceChat - 傳送文字訊息
+```json
+{
+      "AppId": "678ef3c6ca9e3501ea3b12d0", // 填寫專案所需
+      "RoomId": "1", // 填寫專案所需
+      "TaskId": "2", // 填寫專案所需
+      "Command": "ExternalTextToLLM",
+      "Message": "message", // 填寫專案所需
+      "InterruptMode": 2
+    }
+```
+
 ## 其他
 * Server 需要提供 API 讓客戶端打斷 Bot
 * Server 需要提供 API 讓客戶端傳送文字訊息
