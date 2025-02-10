@@ -104,4 +104,5 @@
 ## 其他
 * Server 需要提供 API 讓客戶端打斷 Bot
 * Server 需要提供 API 讓客戶端傳送文字訊息
+* Server 需要提供 API 讓客戶端調整 Bot 語速
 
