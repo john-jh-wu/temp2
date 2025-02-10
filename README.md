@@ -80,4 +80,5 @@
 
 ## 其他
 * Server 需要提供 API 讓客戶端打斷 Bot
+* Server 需要提供 API 讓客戶端傳送文字訊息
 
