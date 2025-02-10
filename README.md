@@ -1,7 +1,8 @@
 # 文件
 
 ## 流程圖
-<img width="665" alt="截圖 2025-02-10 下午1 39 39" src="https://github.com/user-attachments/assets/30dbdcd4-f2e7-4109-b9f8-2b715d710699" />
+<img width="639" alt="截圖 2025-02-10 下午2 13 38" src="https://github.com/user-attachments/assets/5f513c45-e6b6-44b0-9b6a-ef084f0c42cd" />
+
 
 ## 实时对话式 AI API 相關文件
 * [文件](https://www.volcengine.com/docs/6348/1315560)
