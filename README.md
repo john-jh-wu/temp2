@@ -1,7 +1,7 @@
 # 文件
 
 ## 流程圖
-<img width="639" alt="截圖 2025-02-10 下午2 13 38" src="https://github.com/user-attachments/assets/5f513c45-e6b6-44b0-9b6a-ef084f0c42cd" />
+<img width="661" alt="截圖 2025-02-10 下午2 58 56" src="https://github.com/user-attachments/assets/fa530504-7d4f-4c9c-b870-1a01866955f7" />
 
 
 ## 实时对话式 AI API 相關文件
