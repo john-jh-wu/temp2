@@ -97,7 +97,7 @@
     "AppId": "678ef3c6ca9e3501ea3b12d0", // 填寫專案所需
     "RoomId": "1", // 填寫專案所需
     "TaskId": "2", // 填寫專案所需
-    "Command": "interrupt",
+    "Command": "interrupt"
 }
 ```
 
