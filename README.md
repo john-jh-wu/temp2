@@ -3,7 +3,7 @@
 ## 流程圖
 <img width="665" alt="截圖 2025-02-10 下午1 39 39" src="https://github.com/user-attachments/assets/30dbdcd4-f2e7-4109-b9f8-2b715d710699" />
 
-## 实时对话式 AI API 與相關文件
+## 实时对话式 AI API 相關文件
 * [文件](https://www.volcengine.com/docs/6348/1315560)
   * [启动智能体 StartVoiceChat](https://www.volcengine.com/docs/6348/1404673)
   * [更新智能体 UpdateVoiceChat](https://www.volcengine.com/docs/6348/1404671)
