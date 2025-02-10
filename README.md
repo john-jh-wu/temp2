@@ -1,4 +1,4 @@
-# # 文件
+# 文件
 
 ## 流程圖
 <img width="665" alt="截圖 2025-02-10 下午1 39 39" src="https://github.com/user-attachments/assets/30dbdcd4-f2e7-4109-b9f8-2b715d710699" />
@@ -23,12 +23,6 @@
   * 需由 Sever 返回。
 * user id
   * user id (火山) 對應到我們內部系統的 user id。  
-
-## 实时字幕
-* [文件](https://www.volcengine.com/docs/6348/1337284)
-
-> 在 StartVoiceChat 接口中配置 SubtitleConfig 结构体参数后，你可以开启房间内字幕回调功能。
-> 服务端通过设定的 ServerMessageUrl 按照每句话返回字幕结果，你可以用来存储分析对话数据。
 
 ## 參數
 
