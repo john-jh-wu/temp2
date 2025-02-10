@@ -82,13 +82,23 @@
 ### UpdateVoiceChat - 傳送文字訊息
 ```json
 {
-      "AppId": "678ef3c6ca9e3501ea3b12d0", // 填寫專案所需
-      "RoomId": "1", // 填寫專案所需
-      "TaskId": "2", // 填寫專案所需
-      "Command": "ExternalTextToLLM",
-      "Message": "message", // 填寫專案所需
-      "InterruptMode": 2
-    }
+    "AppId": "678ef3c6ca9e3501ea3b12d0", // 填寫專案所需
+    "RoomId": "1", // 填寫專案所需
+    "TaskId": "2", // 填寫專案所需
+    "Command": "ExternalTextToLLM",
+    "Message": "message", // 填寫專案所需
+    "InterruptMode": 2
+}
+```
+
+### UpdateVoiceChat - 打斷 Bot
+```json
+{
+    "AppId": "678ef3c6ca9e3501ea3b12d0", // 填寫專案所需
+    "RoomId": "1", // 填寫專案所需
+    "TaskId": "2", // 填寫專案所需
+    "Command": "interrupt",
+}
 ```
 
 ## 其他
